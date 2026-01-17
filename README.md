@@ -1,1 +1,1 @@
-infer是收集用户信息，用python调整模型onsvm参数，输出参数文件后放到infer文件的参数位置，只放了infer四个重要的参数文件，因为infer压缩包太大了
+infer是收集用户信息，用python调整模型onsvm参数，输出参数文件后放到infer文件的参数位置，只放了infer四个重要的主文件，因为infer压缩包太大了
